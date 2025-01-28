@@ -1,1 +1,4 @@
-Hey I added this 
+Hey I added this this is the text appended in the text fie of text.txt
+this is the text appended in the text fie of text.txt
+this is the text appended in the text fie of text.txt
+this is the text appended in the text fie of text.txt
